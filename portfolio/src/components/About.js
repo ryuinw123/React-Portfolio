@@ -77,6 +77,7 @@ function About() {
                             <li>Nat</li>
                             <li>Vlan + VTP</li>
                             <li>DNS</li>
+                            <li>DHCP</li>
                             <li>Router</li>
                             <li>Switch + Spanning Tree</li>
                             <li>Static routing</li>
