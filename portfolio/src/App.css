@@ -3,7 +3,11 @@
   margin: 0;
   padding: 0;
   font-family: 'Sarabun', sans-serif;
+  
 }
+
+body, html { overflow-x:hidden; }
+
 
 .story-container {
   display:flex;
