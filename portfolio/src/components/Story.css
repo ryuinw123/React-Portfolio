@@ -1,0 +1,12 @@
+
+.timelineO {
+    flex : 0.3!important
+}
+.timelineO h2 {
+    min-width: 200px;
+}
+h1 {
+    text-align: center;
+    margin : 10px 25px;
+}
+
