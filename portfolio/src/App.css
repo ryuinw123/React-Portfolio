@@ -6,8 +6,6 @@
   
 }
 
-body, html { overflow-x:hidden; }
-
 
 .story-container {
   display:flex;
