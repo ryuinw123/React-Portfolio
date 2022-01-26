@@ -2,7 +2,7 @@ import React, { useEffect, useState } from 'react'
 import { MdFolderOpen, MdTimeline } from 'react-icons/md'
 import { HiChevronDoubleRight } from 'react-icons/hi'
 import { CgProfile } from 'react-icons/cg'
-import { GrReactjs, GrCertificate } from 'react-icons/gr'
+import { GrReactjs } from 'react-icons/gr'
 import { FaMedal } from 'react-icons/fa'
 import { AiOutlineIdcard, AiOutlinePhone } from 'react-icons/ai'
 
