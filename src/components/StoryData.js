@@ -24,36 +24,36 @@ export const StoryData2 = [
         title : "เรื่องเล่าในมหาลัย" ,
         heading : "ปี 1 เทอม 1",
         side : "เรื่องเล่าปี 1 เทอม 1",
-        detail : `ไปมหาลัยแบบไม่รู้อะไรเลย`
+        detail : `C++ Game Project`
     },
     {
         title : "เรื่องเล่าในมหาลัย" ,
         heading : "ปี 1 เทอม 2",
         side : "เรื่องเล่าปี 1 เทอม 2",
-        detail : ``
+        detail : `Loan Application Project(Java+Microsoft SQL)`
     },
     {
         title : "เรื่องเล่าในมหาลัย" ,
         heading : "ปี 2 เทอม 1",
         side : "เรื่องเล่าปี 2 เทอม 1",
-        detail : ``
+        detail : `FPGA Tetris Project`
     },
     {
         title : "เรื่องเล่าในมหาลัย" ,
         heading : "ปี 2 เทอม 2",
         side : "เรื่องเล่าปี 2 เทอม 2",
-        detail : ``
+        detail : `Atrip Project(Vue Js+Flask+MariaDB)`
     },
     {
         title : "เรื่องเล่าในมหาลัย" ,
         heading : "ปี 3 เทอม 1",
         side : "เรื่องเล่าปี 3 เทอม 1",
-        detail : ``
+        detail : `Network Design`
     },
     {
         title : "เรื่องเล่าในมหาลัย" ,
         heading : "ปี 3 เทอม 2",
         side : "เรื่องเล่าปี 3 เทอม 2",
-        detail : ``
+        detail : `Webscraping Project`
     }
 ]

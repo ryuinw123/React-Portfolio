@@ -10,7 +10,7 @@ import Toggle from './components/Toggle';
 import { useContext,useEffect } from 'react';
 import { ThemeContext } from './Context';
 import Navbar from './components/Navbar';
-import {ProductData1 , ProductData2} from './components/ProductData'
+import {ProductData1 , ProductData2 ,ProductData3} from './components/ProductData'
 import AOS from "aos";
 import "aos/dist/aos.css";
 
@@ -44,6 +44,7 @@ function App() {
         </div>
         <ProductList ProductTitle = {"Computer Engineering Project"} ProductDescription = {"ส่วนนี้จะเป็นโปรเจ็คที่ได้ทำไว้ในช่วงมหาวิทยาลัย เมื่อกดเข้าไปจะเป็นลิงค์ Github ของ Project นั้น ๆ สามารถดูรายละเอียดอื่น ๆ ได้ตามลิงค์เลย"} ProductData = {ProductData1} ProductID = "project" />
         <ProductList ProductTitle = {"Computer Engineering Certificate"} ProductDescription = {"ส่วนนี้จะเป็นประกาศนียบัตรของ Coursera ที่ได้ทำไว้ในช่วงที่มหาวิทยาลัยเปิดให้เรียนฟรี เมื่อกดเข้าไปจะเป็นลิงค์ยืนยัน ของ Certificate นั้น ๆ สามารถดูรายละเอียดอื่น ๆ ได้ตามลิงค์เลย"} ProductData = {ProductData2} ProductID = "certificate" />
+        <ProductList ProductTitle = {"Secondary School Certificate"} ProductDescription = {"ส่วนนี้จะเป็นประกาศนียบัตร ที่ได้ทำไว้ในช่วงที่มัธยม"} ProductData = {ProductData3} ProductID = "certificate" />
         <Contact/>
     </div>
     </>

@@ -62,3 +62,52 @@ export const ProductData2 = [
         link: "https://coursera.org/verify/PNGM8TTSCY8F"
     }
 ]
+
+export const ProductData3 = [
+    {
+        id: 1,
+        img: "https://cdn.discordapp.com/attachments/798836385019723796/935963060550660116/IMG_3168.jpg",
+        link: "/"
+
+    },
+    {
+        id: 2,
+        img: "https://cdn.discordapp.com/attachments/798836385019723796/935963065529278514/IMG_3169.jpg",
+        link: "/"
+    },
+    {
+        id: 3,
+        img: "https://cdn.discordapp.com/attachments/798836385019723796/935963070000410634/IMG_3170.jpg",
+        link: "/"
+    },
+    {
+        id: 4,
+        img: "https://cdn.discordapp.com/attachments/798836385019723796/935963084521095238/IMG_3171.jpg",
+        link: "/"
+    },
+    {
+        id: 5,
+        img: "https://cdn.discordapp.com/attachments/798836385019723796/935964772288053328/IMG_3172.jpg",
+        link: "/"
+    },
+    {
+        id: 6,
+        img: "https://cdn.discordapp.com/attachments/798836385019723796/935964772728467456/IMG_3173.jpg",
+        link: "/"
+    },
+    {
+        id: 7,
+        img: "https://cdn.discordapp.com/attachments/798836385019723796/935964773152067644/IMG_3174.jpg",
+        link: "/"
+    },
+    {
+        id: 8,
+        img: "https://cdn.discordapp.com/attachments/798836385019723796/935964773575696384/IMG_3175.jpg",
+        link: "/"
+    },
+    {
+        id: 9,
+        img: "https://cdn.discordapp.com/attachments/798836385019723796/935964774456492113/IMG_3176.jpg",
+        link: "/"
+    }
+]
