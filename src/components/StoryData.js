@@ -21,39 +21,39 @@ export const StoryData = [
 
 export const StoryData2 = [
     {
-        title : "เรื่องเล่าในมหาลัย" ,
+        title : "โปรเจคในมหาลัย" ,
         heading : "ปี 1 เทอม 1",
-        side : "เรื่องเล่าปี 1 เทอม 1",
+        side : "โปรเจคปี 1 เทอม 1",
         detail : `C++ Game Project`
     },
     {
-        title : "เรื่องเล่าในมหาลัย" ,
+        title : "โปรเจคในมหาลัย" ,
         heading : "ปี 1 เทอม 2",
-        side : "เรื่องเล่าปี 1 เทอม 2",
+        side : "โปรเจคปี 1 เทอม 2",
         detail : `Loan Application Project(Java+Microsoft SQL)`
     },
     {
-        title : "เรื่องเล่าในมหาลัย" ,
+        title : "โปรเจคในมหาลัย" ,
         heading : "ปี 2 เทอม 1",
-        side : "เรื่องเล่าปี 2 เทอม 1",
+        side : "โปรเจคปี 2 เทอม 1",
         detail : `FPGA Tetris Project`
     },
     {
-        title : "เรื่องเล่าในมหาลัย" ,
+        title : "โปรเจคในมหาลัย" ,
         heading : "ปี 2 เทอม 2",
-        side : "เรื่องเล่าปี 2 เทอม 2",
+        side : "โปรเจคปี 2 เทอม 2",
         detail : `Atrip Project(Vue Js+Flask+MariaDB)`
     },
     {
-        title : "เรื่องเล่าในมหาลัย" ,
+        title : "โปรเจคในมหาลัย" ,
         heading : "ปี 3 เทอม 1",
-        side : "เรื่องเล่าปี 3 เทอม 1",
+        side : "โปรเจคปี 3 เทอม 1",
         detail : `Network Design`
     },
     {
-        title : "เรื่องเล่าในมหาลัย" ,
+        title : "โปรเจคในมหาลัย" ,
         heading : "ปี 3 เทอม 2",
-        side : "เรื่องเล่าปี 3 เทอม 2",
+        side : "โปรเจคปี 3 เทอม 2",
         detail : `Webscraping Project`
     }
 ]

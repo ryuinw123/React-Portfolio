@@ -25,6 +25,11 @@ export const ProductData1 = [
         id: 5,
         img: "https://raw.githubusercontent.com/ryuinw123/Pokemon-Tower-Defense/main/PokemonTowerDefense.png",
         link: "https://github.com/ryuinw123/Pokemon-Tower-Defense"
+    },
+    {
+        id : 6,
+        img: "https://cdn.discordapp.com/attachments/798836385019723796/935971787915800576/FireShot_Capture_001_-_React_App_-_localhost.png",
+        link: "https://github.com/ryuinw123/React-Portfolio"
     }
 ]
 
