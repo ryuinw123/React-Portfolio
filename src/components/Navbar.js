@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from 'react'
+import React, { useEffect, useRef, useState } from 'react'
 import { MdFolderOpen, MdTimeline } from 'react-icons/md'
 import { HiChevronDoubleRight } from 'react-icons/hi'
 import { CgProfile } from 'react-icons/cg'
@@ -48,21 +48,59 @@ function doScrolling(element, duration) {
 
 
 function Navbar(data) {
+    const navscroll = useRef(1);
     useEffect(() => {
         function handleScroll() {
             let windowLocation = window.pageYOffset + window.innerHeight / 2
-            if (getElementY("#contact") < windowLocation)
+            if (getElementY("#contact") < windowLocation ){
+                if (navscroll.current === 6)
+                {
+                    return
+                }
+                navscroll.current = 6;
                 handleDark6()
-            else if (getElementY("#certificate ") < windowLocation)
+            }
+            else if (getElementY("#certificate ") < windowLocation){
+                if (navscroll.current === 5)
+                {
+                    return
+                }
+                navscroll.current = 5;
                 handleDark5()
-            else if (getElementY("#project") < windowLocation)
+            }
+            else if (getElementY("#project") < windowLocation){
+                if (navscroll.current === 4)
+                {
+                    return
+                }
+                navscroll.current = 4;
                 handleDark4()
-            else if (getElementY("#story") < windowLocation)
+            }
+            else if (getElementY("#story") < windowLocation){
+                if (navscroll.current === 3)
+                {
+                    return
+                }
+                navscroll.current = 3;
                 handleDark3()
-            else if (getElementY("#about") < windowLocation)
+            }
+            else if (getElementY("#about") < windowLocation){
+                if (navscroll.current === 2)
+                {
+                    return
+                }
+                navscroll.current = 2;
+
                 handleDark2()
-            else if (getElementY("#intro") < windowLocation)
+            }
+            else if (getElementY("#intro") < windowLocation){
+                if (navscroll.current === 1)
+                {
+                    return
+                }
+                navscroll.current = 1;
                 handleDark1()
+            }
         }
         window.addEventListener('scroll', handleScroll)
     })
