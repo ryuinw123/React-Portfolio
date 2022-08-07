@@ -30,6 +30,16 @@ export const ProductData1 = [
         id : 6,
         img: "https://cdn.discordapp.com/attachments/798836385019723796/935971787915800576/FireShot_Capture_001_-_React_App_-_localhost.png",
         link: "https://github.com/ryuinw123/React-Portfolio"
+    },
+    {
+        id : 7,
+        img: "https://cdn.discordapp.com/attachments/798836385019723796/1005812406208958474/Capture.PNG",
+        link: "https://github.com/ryuinw123/ImageClassificationSourceCode"
+    },
+    {
+        id : 8,
+        img: "https://cdn.discordapp.com/attachments/798836385019723796/1005812406691315804/Capture2.PNG",
+        link: "https://github.com/ryuinw123/CurrencyExchange"
     }
 ]
 
