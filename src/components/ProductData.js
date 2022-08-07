@@ -65,6 +65,11 @@ export const ProductData2 = [
         id: 6,
         img: "https://cdn.discordapp.com/attachments/798836385019723796/935198243590131742/Coursera_PNGM8TTSCY8F-1.jpg",
         link: "https://coursera.org/verify/PNGM8TTSCY8F"
+    },
+    {
+        id: 7,
+        img: "https://cdn.discordapp.com/attachments/798836385019723796/1005808178467962890/Coursera_6BNPQU58KLPX-1.png",
+        link: "https://coursera.org/verify/6BNPQU58KLPX"
     }
 ]
 
