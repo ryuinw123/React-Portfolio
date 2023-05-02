@@ -80,7 +80,12 @@ export const ProductData2 = [
         id: 7,
         img: "https://cdn.discordapp.com/attachments/798836385019723796/1005808178467962890/Coursera_6BNPQU58KLPX-1.png",
         link: "https://coursera.org/verify/6BNPQU58KLPX"
-    }
+    },
+    {
+        id: 8,
+        img: "https://cdn.discordapp.com/attachments/798836385019723796/1010652401902026802/Certificate_of_Achievement_-_Mr._Romtham_Tungsununtham_1.jpg",
+        link: "/"
+    },
 ]
 
 export const ProductData3 = [
