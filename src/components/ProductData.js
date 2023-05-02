@@ -40,6 +40,11 @@ export const ProductData1 = [
         id : 8,
         img: "https://cdn.discordapp.com/attachments/798836385019723796/1005812406691315804/Capture2.PNG",
         link: "https://github.com/ryuinw123/CurrencyExchange"
+    },
+    {
+        id : 9,
+        img: "https://cdn.discordapp.com/attachments/798836385019723796/1102965720213635152/image.png",
+        link: "https://github.com/ryuinw123/kotlincompanion"
     }
 ]
 
