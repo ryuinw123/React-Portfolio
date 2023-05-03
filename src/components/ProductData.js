@@ -2,8 +2,8 @@
 export const ProductData1 = [
     {
         id: 1,
-        img: "https://cdn.discordapp.com/attachments/798836385019723796/935195831336861837/-14.jpg",
-        link: "https://github.com/ryuinw123/Loan-Application"
+        img: "https://cdn.discordapp.com/attachments/798836385019723796/1103298685363830915/Design-Patterns-in-Software-Development.png",
+        link: "https://github.com/ryuinw123/SOFTWARE-ARCHITECTURE-AND-DESIGN"
 
     },
     {
@@ -13,39 +13,39 @@ export const ProductData1 = [
     },
     {
         id: 3,
-        img: "https://cdn.discordapp.com/attachments/798836385019723796/935196556414558208/A_TRIP_PRESENTATION_2-4.jpg",
-        link: "https://github.com/ryuinw123/Atrip"
-    },
-    {
-        id: 4,
         img: "https://raw.githubusercontent.com/ryuinw123/FPGA-TETRIS-VHDL/main/porposal.jpg",
         link: "https://github.com/ryuinw123/FPGA-TETRIS-VHDL"
     },
     {
-        id: 5,
-        img: "https://raw.githubusercontent.com/ryuinw123/Pokemon-Tower-Defense/main/PokemonTowerDefense.png",
-        link: "https://github.com/ryuinw123/Pokemon-Tower-Defense"
-    },
-    {
-        id : 6,
+        id : 4,
         img: "https://cdn.discordapp.com/attachments/798836385019723796/935971787915800576/FireShot_Capture_001_-_React_App_-_localhost.png",
         link: "https://github.com/ryuinw123/React-Portfolio"
     },
     {
-        id : 7,
+        id : 5,
         img: "https://cdn.discordapp.com/attachments/798836385019723796/1005812406208958474/Capture.PNG",
         link: "https://github.com/ryuinw123/ImageClassificationSourceCode"
     },
     {
-        id : 8,
+        id : 6,
         img: "https://cdn.discordapp.com/attachments/798836385019723796/1005812406691315804/Capture2.PNG",
         link: "https://github.com/ryuinw123/CurrencyExchange"
     },
     {
-        id : 9,
+        id : 7,
         img: "https://cdn.discordapp.com/attachments/798836385019723796/1102965720213635152/image.png",
         link: "https://github.com/ryuinw123/kotlincompanion"
-    }
+    },
+    {
+        id : 8,
+        img: "https://cdn.discordapp.com/attachments/798836385019723796/1103300667986149497/image.png",
+        link: "https://github.com/ryuinw123/react-admin-companion"
+    },
+    {
+        id : 9,
+        img: "https://cdn.discordapp.com/attachments/798836385019723796/1103300667986149497/image.png",
+        link: "https://github.com/ryuinw123/admincompanion"
+    },
 ]
 
 
