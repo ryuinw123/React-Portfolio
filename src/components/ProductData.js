@@ -2,7 +2,7 @@
 export const ProductData1 = [
     {
         id: 1,
-        img: "https://cdn.discordapp.com/attachments/798836385019723796/1103298685363830915/Design-Patterns-in-Software-Development.png",
+        img: "https://cdn.discordapp.com/attachments/798836385019723796/1152961713759588533/Design-Patterns-in-Software-Development.png",
         link: "https://github.com/ryuinw123/SOFTWARE-ARCHITECTURE-AND-DESIGN"
 
     },
@@ -38,12 +38,12 @@ export const ProductData1 = [
     },
     {
         id : 8,
-        img: "https://cdn.discordapp.com/attachments/798836385019723796/1103300667986149497/image.png",
+        img: "https://cdn.discordapp.com/attachments/798836385019723796/1152961562760462429/image.png",
         link: "https://github.com/ryuinw123/react-admin-companion"
     },
     {
         id : 9,
-        img: "https://cdn.discordapp.com/attachments/798836385019723796/1103300667986149497/image.png",
+        img: "https://cdn.discordapp.com/attachments/798836385019723796/1152961562760462429/image.png",
         link: "https://github.com/ryuinw123/admincompanion"
     },
 ]
@@ -85,6 +85,11 @@ export const ProductData2 = [
         id: 7,
         img: "https://cdn.discordapp.com/attachments/798836385019723796/1005808178467962890/Coursera_6BNPQU58KLPX-1.png",
         link: "https://coursera.org/verify/6BNPQU58KLPX"
+    },
+    {
+        id: 8,
+        img: "https://cdn.discordapp.com/attachments/798836385019723796/1152961006675427399/Coursera_MJKAFVC9W2JH-1.png",
+        link: "https://coursera.org/verify/MJKAFVC9W2JH"
     },
     {
         id: 8,
